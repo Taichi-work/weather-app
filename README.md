@@ -1,7 +1,5 @@
 # Weather App（天気予報アプリ）
 
----
-
 ## 概要
 
 Visual Crossing Weather API を利用して、地域ごとの **最新天気** と **過去2週間の天気履歴** を表示するWebアプリです。
